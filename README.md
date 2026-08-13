@@ -1,2 +1,2 @@
-# pulchritudinous_structures
-A collection of beautifully implemented data structures in Java.
+# java_structures
+A technical exercise in clean and efficient data-structure implementation.
